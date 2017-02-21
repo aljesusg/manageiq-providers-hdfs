@@ -4,7 +4,7 @@ require "manageiq/providers/hdfs/version"
 
 Gem::Specification.new do |s|
   s.name        = "manageiq-providers-hdfs"
-  s.version     = ManageIQ::Providers::Consumption::VERSION
+  s.version     = ManageIQ::Providers::Hdfs::VERSION
   s.authors     = ["ManageIQ Developers"]
   s.homepage    = "https://github.com/ManageIQ/manageiq-providers-hdfs"
   s.summary     = "Hdfs Provider for ManageIQ"
