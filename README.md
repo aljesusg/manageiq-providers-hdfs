@@ -1,11 +1,11 @@
 # manageiq-providers-hdfs
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-providers-hdfs.svg)](http://badge.fury.io/rb/manageiq-providers-hdfs)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-providers-hdfs.svg)](https://travis-ci.org/ManageIQ/manageiq-providers-hdfs)
-[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-hdfs.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-hdfs)
-[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-hdfs/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-hdfs/coverage)
-[![Dependency Status](https://gemnasium.com/ManageIQ/manageiq-providers-hdfs.svg)](https://gemnasium.com/ManageIQ/manageiq-providers-hdfs)
-[![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-hdfs/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-hdfs/master)
+[![Build Status](https://travis-ci.org/aljesusg/manageiq-providers-hdfs.svg)](https://travis-ci.org/aljesusg/manageiq-providers-hdfs)
+[![Code Climate](https://codeclimate.com/github/aljesusg/manageiq-providers-hdfs.svg)](https://codeclimate.com/github/aljesusg/manageiq-providers-hdfs)
+[![Test Coverage](https://codeclimate.com/github/aljesusg/manageiq-providers-hdfs/badges/coverage.svg)](https://codeclimate.com/github/aljesusg/manageiq-providers-hdfs/coverage)
+[![Dependency Status](https://gemnasium.com/aljesusg/manageiq-providers-hdfs.svg)](https://gemnasium.com/aljesusg/manageiq-providers-hdfs)
+[![Security](https://hakiri.io/github/aljesusg/manageiq-providers-hdfs/master.svg)](https://hakiri.io/github/aljesusg/manageiq-providers-hdfs/master)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-hdfs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Translate](https://img.shields.io/badge/translate-zanata-blue.svg)](https://translate.zanata.org/zanata/project/view/manageiq-providers-hdfs)

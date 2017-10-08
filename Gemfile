@@ -10,3 +10,6 @@ gemspec
 
 # Load Gemfile with dependencies from manageiq
 eval_gemfile(File.expand_path("spec/manageiq/Gemfile", __dir__))
+
+
+gem "fog-hadoop" , :git => "https://github.com/fog/fog-hadoop.git"
