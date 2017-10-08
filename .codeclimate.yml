@@ -44,4 +44,4 @@ ratings:
   paths:
   - Gemfile.lock
   - "**.rake"
-  - "**.rb"
+- "**.rb"
